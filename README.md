@@ -23,8 +23,8 @@ NodeShop is a MERN (MongoDB, Express, React, Node.js) shopping cart application 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/nodeshop.git
-cd nodeshop
+git clone https://github.com/ahsaan-habib/nodeshop.git
+cd NodeShop
 ```
 
 ### 2. Install Backend Dependencies
@@ -48,7 +48,6 @@ Create a `.env` file in the root directory with the following content:
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 COINBASE_API_KEY=your_coinbase_api_key
-PROJECT2_URL=your_project2_base_url
 ```
 
 ### 5. Seed the Database
